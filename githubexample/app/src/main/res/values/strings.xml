@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">github example</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="bio">Bio :</string>
+    <string name="public_repository">Public repository:</string>
+    <string name="public_gists">Public gists:</string>
+    <string name="updated_at">Updated at:</string>
+    <string name="profile">Profile</string>
+</resources>
